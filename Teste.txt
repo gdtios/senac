@@ -1,0 +1,8 @@
+32 32 3231
+31 31 31
+313 131 313
+A soma dos elementos da matriz é: 4145
+O menor valor da matriz é: 31
+A diagonal secundária da matriz é: 3
+A diagonal principal da matriz é: 3
+o arquivo foi executado com sucesso.

@@ -1,0 +1,3 @@
+2 323
+a soma dos elementos da matriz é:{soma}2 232
+a soma dos elementos da matriz é:{soma}

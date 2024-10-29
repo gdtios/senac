@@ -1,0 +1,7 @@
+Dados dos Veículos:Veículo: clio, Placa: 123, Marca: clio, Modelo: 123, Valor: 10.00, Ano: 1
+Veículo: clio, Placa: 123, Marca: clio, Modelo: clio, Valor: 123.00, Ano: 123
+Veículo: clio, Placa: 123, Marca: clio, Modelo: clio, Valor: 5.00, Ano: 123
+
+A média dos valores dos veículos é: 46.00
+O veículo mais caro é: clio com valor de 123.00
+O veículo mais barato é: clio com valor de 5.00
