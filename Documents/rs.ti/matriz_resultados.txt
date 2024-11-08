@@ -1,0 +1,10 @@
+Matriz:
+2 3 2 2
+2 3 2 2
+2 2 2 2
+2 2 2 2
+Soma dos valores da matriz: 34
+Soma da diagonal principal: 2
+Números pares: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+Números ímpares: [3, 3]
+Números maiores que 17: []
